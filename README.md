@@ -1,1 +1,1 @@
-# TCC---Ciencia-da-Computacao
+# TCC-Ciencia-da-Computacao
