@@ -1,5 +1,6 @@
 # Referências Bibliográficas
 
+
 ENGHEIM, Erik. RISC vs CISC Microprocessor Philosophy in 2022. Disponível em: https://itnext.io/risc-vs-cisc-microprocessor-philosophy-in-2022-fa871861bc94. Acesso em: 12 fev. 2024. 
 
 RED HAT ENTERPRISE LINUX. Qual é a diferença entre ARM e x86?. Disponível em: https://www.redhat.com/pt-br/topics/linux/ARM-vs-x86. Acesso em: 12 fev. 2024. 
