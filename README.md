@@ -10,4 +10,4 @@ Este repositório tem como objetivo controlar versão de todo o processo do meu 
 - [x] Entrega do Termo de Aceitação (01/03/2024)
 - [x] Entrega da primeira versão do TCC (22/03/2024)
 - [x] Entrega da segunda versão do TCC (08/05/2024)
-- [ ] Entrega da versão final do TCC (25/05/2024)
+- [x] Entrega da versão final do TCC (25/05/2024)
